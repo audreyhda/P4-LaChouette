@@ -93,6 +93,7 @@ a:hover {
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
+    opacity:0.5;
 }
 
 .b-parallax {
@@ -285,17 +286,7 @@ a:hover {
 
 #bloc-1-hero h1 {
     font-size: 32px;
-}
-.quote {
-    margin: 0;
-    color:#4F4F4F;
-    background: #eee;
-    padding: 1em;
-    border-radius: 1em;
-}
-  .quote figcaption,
-  .quote blockquote {
-    margin: 1em;
+    font-weight: bold;
 }
 
 .navbar {
@@ -689,7 +680,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -722,7 +713,7 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 17px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -783,15 +774,30 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color:#8A380F;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
+    font-weight: bold;
+}
+footer a {
+    color: #FFFFFF!important;
+}
+.quote {
+    margin: 0;
+    color:#4F4F4F;
+    background: #eee;
+    padding: 1em;
+    border-radius: 1em;
+}
+  .quote figcaption,
+  .quote blockquote {
+    margin: 1em;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #933C10;
     color: #FFFFFF!important;
 }
 
