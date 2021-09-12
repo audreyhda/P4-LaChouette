@@ -57,7 +57,7 @@ Un rapport d’optimisation comprenant une comparaison des résultats (y compris
 Vos livrables doivent être professionnels. Veillez à proposer des contenus de bonne qualité rédactionnelle. 
 
 
-Compétences évaluées
+Compétences évaluées:
 
 Assurer l'accessibilité d'un site web
 
